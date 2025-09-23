@@ -1,0 +1,44 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ]
+  ],
+  "legacy_uid": "a89da380-9616-6f14-30c7-31cba130393e",
+  "instructors": {
+    "content": [
+      "66d9a5a6-e651-343c-7485-50be97a250d3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6f396c61-7216-f1b5-7954-7f1872052d4a",
+    "website": "8-06-quantum-physics-iii-spring-2005"
+  },
+  "course_title": "Quantum Physics III",
+  "course_description": "Together, this course and its predecessor, [8.05: Quantum Physics II](/courses/8-05-quantum-physics-ii-fall-2013/), cover quantum physics with applications drawn from modern physics. Topics in this course include units, time-independent approximation methods, the structure of one- and two-electron atoms, charged particles in a magnetic field, scattering, and time-dependent perturbation theory. In this second term, students are required to research and write a paper on a topic related to the content of 8.05 and 8.06.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.06",
+  "course_image_thumbnail": {
+    "content": "12adacc8-7d78-49a5-6827-f5cf1bdb1ddf",
+    "website": "8-06-quantum-physics-iii-spring-2005"
+  },
+  "learning_resource_types": [
+    "Projects",
+    "Problem Sets"
+  ],
+  "site_uid": "9e5861fa-60c3-4b25-8113-32f746eeec46",
+  "site_short_id": "8.06-spring-2005",
+  "site_url_path": "courses/8-06-quantum-physics-iii-spring-2005",
+  "title": "Course Metadata"
+}
