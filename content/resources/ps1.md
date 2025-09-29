@@ -7,6 +7,8 @@ description: 'Problem set on quantum physics. Problems include: cgs units for me
 file: /courses/8-06-quantum-physics-iii-spring-2005/fab0ea8dcec32517f757f75e7e02af30_ps1.pdf
 file_size: 138251
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
