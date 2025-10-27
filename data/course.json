@@ -23,7 +23,6 @@
     "website": "8-06-quantum-physics-iii-spring-2005"
   },
   "course_title": "Quantum Physics III",
-  "hide_download": true,
   "course_description": "Together, this course and its predecessor, [8.05: Quantum Physics II](/courses/8-05-quantum-physics-ii-fall-2013/), cover quantum physics with applications drawn from modern physics. Topics in this course include units, time-independent approximation methods, the structure of one- and two-electron atoms, charged particles in a magnetic field, scattering, and time-dependent perturbation theory. In this second term, students are required to research and write a paper on a topic related to the content of 8.05 and 8.06.\n",
   "department_numbers": [
     "8"
@@ -34,7 +33,6 @@
     "content": "12adacc8-7d78-49a5-6827-f5cf1bdb1ddf",
     "website": "8-06-quantum-physics-iii-spring-2005"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Projects",
     "Problem Sets"
